@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/iemafzalhassan/retail-store-sample-app/compare/v1.2.2...v1.2.3) (2025-07-20)
+
+
+### Features
+
+* Workflow enhanced to use AWS USER instead of OIDC ([5675018](https://github.com/iemafzalhassan/retail-store-sample-app/commit/567501839309192d076d3cfc10fa2de31d9244ea))
+
 ## [1.2.2](https://github.com/aws-containers/retail-store-sample-app/compare/v1.2.1...v1.2.2) (2025-07-14)
 
 
